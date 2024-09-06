@@ -14,4 +14,8 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GustaGermano&theme=tokyonight&bg_color=1A1B27&border_color=30A3DC&show_icons=true&icon_color=BB94F2&title_color=6295D9&text_color=38BDAE&hide=stars)
 
 ## Sobre mim
-Estudo Análise e Desenvolvimento de Sistemas na UniCesumar, faço estágio atualmente e ando me familiarizando com Java e iniciando minha carreira na área de TI.
+Sou estudante de Análise e Desenvolvimento de Sistemas com um ano de experiência prática na UniCesumar e me especializando em desenvolvimento Full Stack. 
+
+Tenho trabalhado com Java, Python, C#, JavaScript, HTML/CSS e SQL, e meu foco está em desenvolvimento web, programação orientada a objetos, bancos de dados e metodologias ágeis. 
+
+Em breve pretendo adicionar mais codes no meu github, no momento estou adquirindo conhecimentos para desenvolvimento de projetos sólidos para adicioná-los aqui.
